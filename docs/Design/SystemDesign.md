@@ -4,6 +4,7 @@
 This bot suggests convenient API/Telegram bot implementation to get space weather and spacecraft data plots..
 
 ## Functional requirements
+* 
 
 ### Features
 * User can get space weather data plots using Telegram bot commands.
