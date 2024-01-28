@@ -37,5 +37,11 @@ PostgreSQL is used as a database engine.
 * Number of records is <?> M.
 * Yearly growth is <?> Gb and <?> M records.
 
+## Data providers
+* National Oceanic and Atmosferic Administration (NOAA); 
+* National Aeronautics and Space Administration (NASA);
+* Кисловодская Горная астрономическая станция Главной (Пулковской) астрономической обсерватории РАН (ГАС ГАО РАН);
+
 #### Storage size requirements
-<?> Gb on release + <?> Gb/year
+* 250 Gb on release;
+* 250 Gb per year.
