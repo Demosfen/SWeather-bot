@@ -1,18 +1,24 @@
 # Space Weather bot for Telegram
 
 ## What for?
-This bot suggests convenient API/Telegram bot implementation to get space weather and spacecraft data plots..
+This bot suggests convenient API/Telegram bot implementation to get space weather and spacecraft data plots. Every aurora hunter or space weather observer can get and build historical and online data plots indicating magnetospheric and solar wind conditions.
 
 ## Functional requirements
-* 
+SWeather bot should:
+* provide convenient API to request specified data;
+* process user's requests and return graphical plots, images or data tables back to Telegram messenger;
+* provide Space Weather guide in form of educational functionality;
+* nowcast and forecast (in future) geomagnetic activity;
+* ...
 
 ### Features
-* User can get space weather data plots using Telegram bot commands.
-* ...
+* User can get space weather data plots using Telegram bot commands;
+* Globe with overplotted aurora layers ith 1-minute resolution;
+* Text-based F.A.Q. on what is and howto Space Weather;
+* ... 
 
 ### UI
-* Telegram bot interface.
-* ...
+* Terminal-based commands with arguments;
 
 ## Tech requirements
 
